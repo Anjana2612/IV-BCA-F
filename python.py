@@ -1,5 +1,5 @@
 # Store input numbers
-
+num1
 num2 = int(input ('Enter second number: '))
 
 # Add two numbers
